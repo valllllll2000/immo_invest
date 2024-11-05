@@ -1,4 +1,4 @@
-# flat_invest
+# immo_invest
 
 Quickly and roughly calculate flat investment profitability.
 
@@ -7,4 +7,7 @@ Uses:
 * Equatable
 * Material 3
 * Intl
+
+* Hosting url: https://flat-invest.web.app
+
 
